@@ -1,0 +1,1 @@
+Este arquivo pertence ao projeto Git_02, como submodulo do projeto Git_01. 
